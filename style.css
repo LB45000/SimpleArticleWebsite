@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.article {
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+
+.article h2 {
+    font-size: 24px;
+}
+
+.article .date {
+    font-style: italic;
+    color: #666;
+}
+
+.article img {
+    max-width: 100%;
+    height: auto;
+}
